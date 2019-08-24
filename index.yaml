@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  echo-service-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-24T08:51:01.284146804-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 7692000468bc52416e86062325af2551a2150cb026f4a79677484649d26a8de4
+    name: echo-service-chart
+    urls:
+    - https://trmsmy.github.io/myhelmcharts/echo-service-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-24T08:51:01.283772357-04:00"
